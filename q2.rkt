@@ -40,8 +40,6 @@
 
 ;;***********************************************************
 (require rackunit)
-(require "extras.rkt")
-(check-location "06" "q2.rkt")
 
 (require 2htdp/universe)
 (require 2htdp/image)
